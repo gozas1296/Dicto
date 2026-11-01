@@ -8,8 +8,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Platform-Android-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Platform: Windows">
-  <img src="https://img.shields.io/badge/Architecture-x64-555555?style=for-the-badge" alt="Architecture: x64">
-  <img src="https://img.shields.io/badge/.NET_Framework-4.8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Framework 4.8">
+  <img src="https://img.shields.io/badge/Architecture-arm64-555555?style=for-the-badge" alt="Architecture: x64">
   <img src="https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge" alt="Status: In Development">
 </p>
 
